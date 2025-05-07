@@ -6,3 +6,4 @@ Pillow
 Werkzeug
 imutils
 torch
+gunicorn
