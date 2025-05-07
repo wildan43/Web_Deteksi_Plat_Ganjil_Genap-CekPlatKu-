@@ -1,9 +1,8 @@
 Flask
-opencv-python-headless
+opencv-python
 ultralytics
 easyocr
 Pillow
 Werkzeug
 imutils
 torch
-gunicorn
